@@ -17,4 +17,6 @@ I'm Julio César and I love to resolve real problems with code.
 }
 ```
 
+<a href="" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/juliomatcom/juliomatcom/main/assets/linkedin.png" width="100"/></a>
+
 Peace ✌️ 
