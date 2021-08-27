@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Julio César and I love to resolve real problems with code.
+I'm Julio César and I love to solve real problems with code 💻
 
 ```javascript
 {
