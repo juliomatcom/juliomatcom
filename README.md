@@ -4,7 +4,7 @@ I'm Julio César and I love to solve real problems with code 💻
 
 ```javascript
 {
-      "Currently": "Busy with my own startup TopDividendos and other commitments",
+      "Currently": "Full-Stack JS Dev @ Techtorch",
       "Past" : [
         "2017/07-2020/05 : Full-Stack Consultant @ Amaris",
         "2016/03-2017/07 : Javascript Dev @ Beeva - BBVA",
@@ -19,4 +19,4 @@ I'm Julio César and I love to solve real problems with code 💻
 
 <a href="https://www.linkedin.com/in/juliocesar-profile/" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/juliomatcom/juliomatcom/main/assets/linkedin.png" width="100" alt="linkedin"/></a>
 
-Peace ✌️ 
+Peace ✌️
